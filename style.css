@@ -1,0 +1,35 @@
+
+*{
+    box-sizeng: border-box;
+}
+
+body{
+    background-color: rgb(213, 213, 205);
+}
+
+
+h1{
+    font-size: 36pt;
+}
+h2{
+    color  :rgb(49, 67, 67);
+}
+p{
+    margin-left: 50px;
+}
+
+#About{
+    height: auto;  
+    background-color: rgb(242, 242, 147);
+    padding: 20px;
+}
+
+#Contact{
+    height: auto;  
+    background-color: rgb(242, 242, 210);
+    padding: 20px;
+    text-align: center;
+}
+.judulc{
+    text-align: center; 
+}
