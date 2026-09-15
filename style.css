@@ -4,15 +4,17 @@
 }
 
 body{
-    background-color: rgb(213, 213, 205);
+     background-color: #F5F7FA;
 }
 
 
 h1{
     font-size: 36pt;
+    background-color: #1E293B;
+    color: white;
 }
 h2{
-    color  :rgb(49, 67, 67);
+    color: #1E293B;
 }
 p{
     margin-left: 50px;
@@ -20,13 +22,13 @@ p{
 
 #About{
     height: auto;  
-    background-color: rgb(242, 242, 147);
+    background-color: #E2E8F0;
     padding: 20px;
 }
 
 #Contact{
     height: auto;  
-    background-color: rgb(242, 242, 210);
+     background-color: #CBD5E1;
     padding: 20px;
     text-align: center;
 }
